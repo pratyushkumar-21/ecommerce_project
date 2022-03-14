@@ -1,0 +1,29 @@
+[
+    {
+        "model": "inventory.category",
+        "pk": 1,
+        "fields": {
+            "name": "fashion",
+            "slug": "fashion",
+            "is_active": true
+        }
+    },
+    {
+        "model": "inventory.category",
+        "pk": 2,
+        "fields": {
+            "name": "woman",
+            "slug": "woman",
+            "is_active": true
+        }
+    },
+    {
+        "model": "inventory.category",
+        "pk": 3,
+        "fields": {
+            "name": "baseball",
+            "slug": "baseball",
+            "is_active": true
+        }
+    }
+]

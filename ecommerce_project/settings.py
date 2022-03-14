@@ -29,6 +29,7 @@ INSTALLED_APPS = [
 
     #local apps
     'apps.dashboard',
+    'apps.inventory',
 ]
 
 MIDDLEWARE = [
